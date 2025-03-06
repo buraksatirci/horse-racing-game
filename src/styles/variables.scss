@@ -1,0 +1,54 @@
+// Main Color Palette
+$green-primary: #4CAF50;    
+$green-light: #8BC34A;      
+$dark-blue: #2c3e50;        
+$blue-light: #3498db;       
+$blue-dark: #2980b9;        
+$orange: #f39c12;           
+$red: #e74c3c;              
+$yellow: #FFC107;    
+$white: white;
+$black: black;
+
+// Grays
+$gray-light: #999;          
+$gray-lighter: #eee;        
+$gray-lightest: #f9f9f9;
+$gray-medium: #f0f0f0;      
+$dark-gray: #333;           
+
+// Blue-grays
+$gray-blue-light: #eef2f7;  
+$gray-blue-lighter: #f1f3f5;
+$gray-blue-border: #e0e6ed; 
+$blue-gray: #8395a7;        
+$gray-blue: #f5f7fa;        
+
+// Gradient Colors
+$gradient-light: #f8f9fa;   
+$gradient-dark: #e9ecef;
+$gradient-track-light: #f0f4f8;
+$gradient-track-dark: #e5e9ec; 
+
+// UI Colors
+$primary-color: $green-primary;
+$text-color: $black;
+$footer-text: $white;
+$result-hover-bg: $gray-blue-border;
+
+// Horse condition colors
+$condition-excellent: $green-primary;
+$condition-good: $green-light;
+$condition-average: $yellow;
+$condition-poor: $red;
+
+// UI Button colors
+$button-newRace: $blue-light;
+$button-stop: $red;
+
+// Race results colors
+$result-bg: $white;
+$result-header-bg: $gray-blue-light;
+$result-border: $gray-blue-border;
+$position-bg: $blue-gray;
+$position-time-bg: $gray-blue-lighter;
